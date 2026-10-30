@@ -65,3 +65,14 @@ Chaque commande existe sous deux formes : le raccourci `make` (pratique en local
 
 
 Voir [COMMANDES.md](COMMANDES.md) pour le détail.
+
+
+
+
+**group04**
+
+_Dernière rotation : 30/10/2026 10:22_
+```bash
+ssh -p 2204 admin@13.140.135.144
+```
+Mot de passe : `1Z783Lrd10XiZqbSpVAq`
